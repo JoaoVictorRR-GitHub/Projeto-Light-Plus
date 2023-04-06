@@ -9,7 +9,7 @@ O Light Plus é um programa simples que calcula o preço de energia gasta com ba
 
 ### Imagem da tela:
 
-![Tela](/Projeto-Light-Plus/Tela.png)
+![Tela](/Imagens/Tela.png)
 
 # Detalhes de software:
 * Lazarus IDE V.2.0.10
