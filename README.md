@@ -2,8 +2,9 @@
 
 ![Tela](/Imagens/Tela.png)
 
-O **Light Plus** é um programa simples desenvolvido em **Free Pascal** na plataforma **Lazarus**. Seu objetivo é calcular o preço a ser pago pelo consumo total de energia (calculado em Kw/h), em uma residência, com base na tarifa aplicada (em R$).
-
+<p align = "justify">
+O <b>Light Plus</b> é um programa simples desenvolvido em <b>Free Pascal</b> na plataforma <b>Lazarus</b>. Seu objetivo é calcular o preço a ser pago pelo consumo total de energia (calculado em Kw/h), em uma residência, com base na tarifa aplicada (em R$).
+</p>
 
 # Detalhes de software:
   * Projeto Lazarus:	&nbsp; [Light_plus.lpi](/Light_plus.lpi)
