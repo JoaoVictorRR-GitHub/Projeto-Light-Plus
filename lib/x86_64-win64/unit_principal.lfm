@@ -4,6 +4,7 @@ object form_Principal_: Tform_Principal_
   Top = 251
   Width = 585
   BorderIcons = [biSystemMenu, biMinimize]
+  BorderStyle = bsSingle
   Caption = 'Light++'
   ClientHeight = 225
   ClientWidth = 585

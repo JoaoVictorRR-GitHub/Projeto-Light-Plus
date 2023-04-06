@@ -21,10 +21,12 @@
         <UnitName Value="unit_Principal"/>
         <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <CursorPos X="50" Y="19"/>
-        <FoldState Value=" T3i80L4x"/>
+        <TopLine Value="42"/>
+        <CursorPos Y="105"/>
+        <FoldState Value=" T3i70L4m"/>
         <UsageCount Value="23"/>
         <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
       </Unit1>
       <Unit2>
         <Filename Value="..\Projeto - Gerenciador de Clientes\Gerenciador de Clientes\classempresa.pas"/>
@@ -65,8 +67,9 @@
       </Unit6>
       <Unit7>
         <Filename Value="Light_plus.lps"/>
-        <EditorIndex Value="-1"/>
+        <EditorIndex Value="2"/>
         <UsageCount Value="10"/>
+        <Loaded Value="True"/>
         <DefaultSyntaxHighlighter Value="XML"/>
       </Unit7>
     </Units>

@@ -5,8 +5,7 @@ unit unit_Principal;
 interface
 
 uses
-  Classes, SysUtils, Forms, Controls, Graphics, Dialogs, StdCtrls, ExtCtrls,
-  Buttons;
+  Classes, SysUtils, Forms, Dialogs, StdCtrls, ExtCtrls;
 
 type
 
@@ -108,6 +107,7 @@ begin
   campo_Consumo_Total_.Text:= '0';   // Limpa o campo de consumo total.
   campo_Tarifa_.Text:=        '0';   // Limpa o campo de tarifa.
   campo_Preco_Total_.Text:=   '0';   // Limpa o campo de preco.
+  campo_Consumo_Total_.SetFocus;     // Avanca para o campo de consumo.
 end;
 
 

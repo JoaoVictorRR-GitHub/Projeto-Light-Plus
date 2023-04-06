@@ -5,8 +5,7 @@ unit unit_Principal;
 interface
 
 uses
-  Classes, SysUtils, Forms, Controls, Graphics, Dialogs, StdCtrls, ExtCtrls,
-  Buttons;
+  Classes, SysUtils, Forms, Dialogs, StdCtrls, ExtCtrls;
 
 type
 
@@ -23,7 +22,7 @@ type
     campo_Tarifa_:         TLabeledEdit;
     campo_Preco_Total_:    TLabeledEdit;
 
-    StaticText1:           TStaticText;
+    label_Observacao_:     TStaticText;
 
     function moedaTexto(Valor: String): String;
     procedure botao_Limpar_Click(Sender: TObject);

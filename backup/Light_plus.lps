@@ -21,8 +21,9 @@
         <UnitName Value="unit_Principal"/>
         <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="31"/>
-        <CursorPos X="36" Y="52"/>
+        <TopLine Value="42"/>
+        <CursorPos Y="105"/>
+        <FoldState Value=" T3i70L4m"/>
         <UsageCount Value="23"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
@@ -66,12 +67,13 @@
       </Unit6>
       <Unit7>
         <Filename Value="Light_plus.lps"/>
-        <EditorIndex Value="-1"/>
+        <EditorIndex Value="2"/>
         <UsageCount Value="10"/>
+        <Loaded Value="True"/>
         <DefaultSyntaxHighlighter Value="XML"/>
       </Unit7>
     </Units>
-    <JumpHistory Count="5" HistoryIndex="4">
+    <JumpHistory Count="6" HistoryIndex="5">
       <Position1>
         <Filename Value="unit_principal.pas"/>
         <Caret Line="107" Column="26" TopLine="80"/>
@@ -92,6 +94,10 @@
         <Filename Value="unit_principal.pas"/>
         <Caret Line="57" Column="5" TopLine="43"/>
       </Position5>
+      <Position6>
+        <Filename Value="unit_principal.pas"/>
+        <Caret Line="52" Column="36" TopLine="31"/>
+      </Position6>
     </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>
