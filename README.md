@@ -1,13 +1,11 @@
 # Projeto-Light-Plus:
-Projeto desenvolvido com o framework Lazarus usando a linguagem Free Pascal.
-
 
 ![Tela](/Imagens/Tela.png)
 
-
-### [Light_plus.exe](/Light_plus.exe):
-  * O Light Plus é um programa simples que calcula o preço a ser pago pelo consumo total de energia (calculado em Kw/h) com base na tarifa aplicada (em R$).
+O Light Plus é um programa simples desenvolvido em *Free Pascal* na plataforma *Lazarus*. Seu objetivo é calcular o preço a ser pago pelo consumo total de energia (calculado em Kw/h), em uma residência, com base na tarifa aplicada (em R$).
 
 
 # Detalhes de software:
-  * Lazarus IDE V.2.0.10
+  * Versão:   Lazarus IDE V.2.0.10
+  * Projeto:  [Light_plus.lpi](/Light_plus.lpi)
+  * Programa: [Light_plus.exe](/Light_plus.exe)
