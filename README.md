@@ -6,6 +6,6 @@ O **Light Plus** é um programa simples desenvolvido em **Free Pascal** na plata
 
 
 # Detalhes de software:
-  * Versão: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lazarus IDE V.2.0.10
-  * Aplicativo: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Light_plus.exe](/Light_plus.exe)
-  * Projeto Lazarus: &nbsp; [Light_plus.lpi](/Light_plus.lpi)
+  * Versão:										Lazarus IDE V.2.0.10
+  * Aplicativo:						[Light_plus.exe](/Light_plus.exe)
+  * Projeto Lazarus: [Light_plus.lpi](/Light_plus.lpi)
