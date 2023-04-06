@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="8">
+      <Unit0>
+        <Filename Value="Light_plus.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="41" Y="5"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unit_principal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="form_Principal_"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unit_Principal"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="31"/>
+        <CursorPos X="36" Y="52"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\Projeto - Gerenciador de Clientes\Gerenciador de Clientes\classempresa.pas"/>
+        <UnitName Value="classEmpresa"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="148"/>
+        <CursorPos X="43" Y="158"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\New Gerenciador de Clientes\Gerenciador de Clientes\unitbd.lfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\New Gerenciador de Clientes\Gerenciador de Clientes\unitbd.pas"/>
+        <UnitName Value="unitBD"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\New Gerenciador de Clientes\Gerenciador de Clientes\unitcadastro.pas"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unitCadastro"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="100"/>
+        <CursorPos X="62" Y="114"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\New Gerenciador de Clientes\Gerenciador de Clientes\unitfuncoes.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="19"/>
+        <CursorPos X="36" Y="34"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="Light_plus.lps"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="XML"/>
+      </Unit7>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="unit_principal.pas"/>
+        <Caret Line="107" Column="26" TopLine="80"/>
+      </Position1>
+      <Position2>
+        <Filename Value="unit_principal.pas"/>
+        <Caret Line="97" Column="31" TopLine="87"/>
+      </Position2>
+      <Position3>
+        <Filename Value="unit_principal.pas"/>
+        <Caret Line="63" Column="27"/>
+      </Position3>
+      <Position4>
+        <Filename Value="unit_principal.pas"/>
+        <Caret Line="49" TopLine="34"/>
+      </Position4>
+      <Position5>
+        <Filename Value="unit_principal.pas"/>
+        <Caret Line="57" Column="5" TopLine="43"/>
+      </Position5>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
