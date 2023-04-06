@@ -1,5 +1,5 @@
 # Projeto-Light-Plus:
-  * Projeto desenvolvido com o framework Lazarus usando a linguagem Free Pascal.
+Projeto desenvolvido com o framework Lazarus usando a linguagem Free Pascal.
 
 
 ![Tela](/Imagens/Tela.png)
