@@ -8,9 +8,10 @@
       <Unit0>
         <Filename Value="Light_plus.lpr"/>
         <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
         <CursorPos X="41" Y="5"/>
         <UsageCount Value="23"/>
-        <Loaded Value="True"/>
       </Unit0>
       <Unit1>
         <Filename Value="unit_principal.pas"/>
@@ -19,14 +20,11 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="unit_Principal"/>
-        <IsVisibleTab Value="True"/>
-        <EditorIndex Value="1"/>
+        <EditorIndex Value="-1"/>
         <TopLine Value="42"/>
         <CursorPos Y="105"/>
         <FoldState Value=" T3i70L4m"/>
         <UsageCount Value="23"/>
-        <Loaded Value="True"/>
-        <LoadedDesigner Value="True"/>
       </Unit1>
       <Unit2>
         <Filename Value="..\Projeto - Gerenciador de Clientes\Gerenciador de Clientes\classempresa.pas"/>
@@ -67,38 +65,13 @@
       </Unit6>
       <Unit7>
         <Filename Value="Light_plus.lps"/>
-        <EditorIndex Value="2"/>
+        <IsVisibleTab Value="True"/>
         <UsageCount Value="10"/>
         <Loaded Value="True"/>
         <DefaultSyntaxHighlighter Value="XML"/>
       </Unit7>
     </Units>
-    <JumpHistory Count="6" HistoryIndex="5">
-      <Position1>
-        <Filename Value="unit_principal.pas"/>
-        <Caret Line="107" Column="26" TopLine="80"/>
-      </Position1>
-      <Position2>
-        <Filename Value="unit_principal.pas"/>
-        <Caret Line="97" Column="31" TopLine="87"/>
-      </Position2>
-      <Position3>
-        <Filename Value="unit_principal.pas"/>
-        <Caret Line="63" Column="27"/>
-      </Position3>
-      <Position4>
-        <Filename Value="unit_principal.pas"/>
-        <Caret Line="49" TopLine="34"/>
-      </Position4>
-      <Position5>
-        <Filename Value="unit_principal.pas"/>
-        <Caret Line="57" Column="5" TopLine="43"/>
-      </Position5>
-      <Position6>
-        <Filename Value="unit_principal.pas"/>
-        <Caret Line="52" Column="36" TopLine="31"/>
-      </Position6>
-    </JumpHistory>
+    <JumpHistory HistoryIndex="-1"/>
     <RunParams>
       <FormatVersion Value="2"/>
       <Modes Count="0" ActiveMode=""/>
