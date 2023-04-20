@@ -1,12 +1,20 @@
-# Projeto-Light-Plus:
+# | $\textcolor{Lime}{\text{Projeto-Light-Plus:}}$
 
-![Tela](/Imagens/Tela.png)
+ <div>
+  <p align="center">
+   <a href="#">
+    <img src="/Imagens/Tela.png"/></a>
+  </p>
+ </div>
 
-<p align = "justify">
-O <b>Light Plus</b> é um programa simples desenvolvido em <b>Free Pascal</b> na plataforma <b>Lazarus</b>. Seu objetivo é calcular o preço a ser pago pelo consumo total de energia (calculado em Kw/h), em uma residência, com base na tarifa aplicada (em R$).
-</p>
+ <p align = "justify">
+  O <b>Light Plus</b> é um programa simples desenvolvido em <b>Free Pascal</b> na plataforma <b>Lazarus</b>. Seu objetivo é calcular o preço a ser pago pelo consumo total de
+  energia (calculado em Kw/h), em uma residência, com base na tarifa aplicada (em R$).
+ </p>
 
-# Detalhes de software:
+
+
+## | $\textcolor{Yellow}{\text{Detalhes de software:}}$
   * Projeto Lazarus:	&nbsp; [Light_plus.lpi](/Light_plus.lpi)
   * Aplicativo:						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; [Light_plus.exe](/Light_plus.exe)
   * Versão:										&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
