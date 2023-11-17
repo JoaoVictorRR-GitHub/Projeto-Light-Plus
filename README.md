@@ -1,4 +1,4 @@
-# | $\textcolor{Lime}{\text{Projeto-Light-Plus:}}$
+# | $\textcolor{Lime}{\text{Projeto-Light-Plus}}$
 
  <div>
   <p align="center">
